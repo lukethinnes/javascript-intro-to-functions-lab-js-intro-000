@@ -22,7 +22,7 @@ function sayHiToGrandma(string) {
 
   switch (string) {
     case (string)===lowercase:
-      return "I can\'t hear you!";
+      return "I can't hear you!";
       break;
     case (string)===uppercase:
       return "YES INDEED!";
