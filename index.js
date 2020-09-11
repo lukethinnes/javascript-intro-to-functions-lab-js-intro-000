@@ -26,6 +26,6 @@ function sayHiToGrandma(string) {
     case (string)===uppercase:
       return "YES INDEED!";
     case (string)===mixedCase:
-      return "I love you, too."
+      return "I love you, too.";
   }
 }
