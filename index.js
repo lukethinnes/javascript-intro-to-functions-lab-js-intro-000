@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
       return "I can't hear you!";
     case (string)===uppercase:
       return "YES INDEED!";
-    case (string)==="I love you, Grandma.":
+    case (string)===mixedCase:
       return "I love you, too."
   }
 }
